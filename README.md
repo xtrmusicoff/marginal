@@ -1,6 +1,8 @@
 # Marginal — Markdown studio
 
-Open `index.html` directly in Chrome, Edge, or Firefox. No build, server, or account required.
+Just open **[xtrmusicoff.github.io/marginal](https://xtrmusicoff.github.io/marginal)** in your browser and start writing. There is nothing to download or install, and no account is required.
+
+Prefer a local copy? Open `index.html` directly in Chrome, Edge, or Firefox. No build or server is needed.
 
 ## Features
 - Live side-by-side Markdown editor and preview; stacked layout on phones.
